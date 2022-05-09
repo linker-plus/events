@@ -12,6 +12,7 @@
 ```email
 japanblockchainweek2022@linker-events.iam.gserviceaccount.com
 ```
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/17715848/167330029-cef209d4-6f84-4474-bc57-9dd471141c7b.png">
 
 3. That's it. Your event will be shown on the website of Japan Blockchain Week 2022 automatically in around 30 minutes.
 
