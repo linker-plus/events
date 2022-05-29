@@ -19,5 +19,5 @@ japanblockchainweek2022@linker-events.iam.gserviceaccount.com
 
 ## 注意事項
 
-- Japan Blockchain Week 2022 期間内（2022 年 7 月 6 日から 7 月 17 日）のイベントのみの表示となります。
+- Japan Blockchain Week 2022 期間内（2022 年 7 月 6 日から 7 月 18 日）のイベントのみの表示となります。
 - ふさわしくないと見做されるイベントは削除される可能性がございます。
