@@ -17,8 +17,7 @@ japanblockchainweek2022@linker-events.iam.gserviceaccount.com
 
 3. That's it. Your event will be shown on the website of Japan Blockchain Week 2022 automatically in around 30 minutes. You can check if the event is registered with the following link.
 
-[Click here to check](https://calendar.google.com/calendar/u/0/embed?showDate=0&height=600&dates=20220706/20220717&wkst=1&bgcolor=%23ffffff&ctz=Asia/Tokyo&showTitle=0&showNav=0&showTabs=0&mode=AGENDA&showPrint=0&showCalendars=0&src=NzM0cWcyNGllbzA2MzJndjMyY2JtdXJsdG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23B39DDB)
-
+[Click here to check](https://calendar.google.com/calendar/u/0/embed?showDate=0&height=600&dates=20220706/20220718&wkst=1&bgcolor=%23ffffff&ctz=Asia/Tokyo&showTitle=0&showNav=0&showTabs=0&mode=AGENDA&showPrint=0&showCalendars=0&src=NzM0cWcyNGllbzA2MzJndjMyY2JtdXJsdG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23B39DDB)
 
 ## Notes
 
