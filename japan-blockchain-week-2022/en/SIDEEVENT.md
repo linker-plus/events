@@ -6,7 +6,7 @@
 
 ## Procedure
 
-1. Add an event in your Google Calendar as usual.
+1. Add an event with **Japanese Standard Time** in your Google Calendar as usual.
 2. Share the event with the following address.
 
 ```email
