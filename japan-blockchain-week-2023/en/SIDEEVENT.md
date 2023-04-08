@@ -21,5 +21,5 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 
 ## Notes
 
-- The events should be in the term between July 6 and July 18. If not, the events will never be shown on the website.
+- The events should be in the term between June 1st and June 30th. If not, the events will never be shown on the website.
 - Once the event would be seen as a spam, the event will be deleted from the list.
