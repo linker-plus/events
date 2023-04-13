@@ -1,4 +1,4 @@
-# Japan Blockchain Week 2023 にサイドイベントを登録する方法
+# Japan Blockchain Week 2023 Community Events にイベントを登録する方法
 
 ## 登録のために必要なもの
 
