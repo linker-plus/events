@@ -13,7 +13,7 @@
 japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 ```
 
-<img width="589" alt="image" src="https://user-images.githubusercontent.com/17715848/230682880-ee6b5dce-7ba2-42b0-b8e8-a9d28c604892.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/17715848/232999277-95823b00-59cb-408b-b9af-4903fe8451de.png">
 
 3. 以上です。共有したイベントは 30 分程度で Japan Blockchain Week 2023 公式サイトに表示されます。以下のリンクからチェックすることも可能です。
 
