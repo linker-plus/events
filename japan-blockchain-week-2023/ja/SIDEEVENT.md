@@ -17,7 +17,7 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 
 3. 以上です。共有したイベントは 30 分程度で Japan Blockchain Week 2023 公式サイトに表示されます。以下のリンクからチェックすることも可能です。
 
-[クリックして登録の確認](https://calendar.google.com/calendar/embed?src=k51ehg5t1irmrjeh27pmbg9m8s%40group.calendar.google.com&showDate=0&dates=20230601/20230630&wkst=1&bgcolor=%23ffffff&ctz=Asia/Tokyo&showTitle=0&showNav=0&showTabs=0&mode=AGENDA&showPrint=0&showCalendars=0)
+[クリックして登録の確認](https://calendar.google.com/calendar/embed?src=k51ehg5t1irmrjeh27pmbg9m8s%40group.calendar.google.com&showDate=0&dates=20230601/20230709&wkst=1&bgcolor=%23ffffff&ctz=Asia/Tokyo&showTitle=0&showNav=0&showTabs=0&mode=AGENDA&showPrint=0&showCalendars=0)
 
 ## 注意事項
 
