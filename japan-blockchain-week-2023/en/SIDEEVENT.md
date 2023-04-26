@@ -21,5 +21,7 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 
 ## Notes
 
+- **A related URL is required to be registered**
 - Ensure that your event takes place between June 1st and June 30th, or it will not be displayed on the website.
-- Events deemed as spam will be removed from the list.
+- Events that are considered spam or lack a clear description will be eliminated from the list.
+
