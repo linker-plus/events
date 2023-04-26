@@ -22,5 +22,5 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 ## 注意事項
 
 - **タイトルや説明文にイベントURLが含まれないイベントは登録されません。**
-- Japan Blockchain Week 2023 期間内（2023 年 6 月 1 日から 6 月 30 日）のイベントのみの表示となります。
+- Japan Blockchain Week 2023 期間内（2023 年 6 月 1 日から 7 月 9 日）のイベントのみの表示となります。
 - 開催内容についての説明がないなど、ふさわしくないと見做されるイベントは削除される可能性がございます。
