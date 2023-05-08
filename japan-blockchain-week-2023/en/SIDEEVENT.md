@@ -22,7 +22,7 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 |:-:|
 |<img width="1141" alt="Xnip2023-05-08_15-45-05のコピー" src="https://user-images.githubusercontent.com/17715848/236754459-a9631977-1e30-4f34-a4d3-0b3a907783a7.png">|
 
-4. (Optional) Attach the thumbnail of the event sized 768x432. **Note that an event without a thumbnail will never be picked as a Picked Community Event.**
+4. (Optional) Attach the thumbnail image of the event sized 768x432. **Note that an event without a thumbnail will never be picked as a Picked Community Event.**
 
 |Attach The Thumbnail|
 |:-:|
