@@ -28,6 +28,11 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 |                                                                          Attach The Thumbnail                                                                           |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img width="1074" alt="Xnip2023-05-08_15-26-35のコピー2" src="https://user-images.githubusercontent.com/17715848/236751777-a5762781-681c-44ec-9259-7c2f909dd84a.png"> |
+|Select "Allow anyone with the link to view" when the following dialog is shown|
+|<img width="399" alt="Xnip2023-05-09_17-05-48" src="https://user-images.githubusercontent.com/17715848/237034381-2ee169ef-50ed-4a8f-bbf2-f536f3ffaf5a.png">|
+
+
+
 
 5. That's it! Your event will automatically appear on the Japan Blockchain Week 2023 Community Events calendar within approximately 30 minutes. Verify that your event has been successfully registered using the following link:
 
