@@ -29,7 +29,8 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img width="1074" alt="Xnip2023-05-08_15-26-35のコピー2" src="https://user-images.githubusercontent.com/17715848/236751777-a5762781-681c-44ec-9259-7c2f909dd84a.png"> |
 |Select "Allow anyone with the link to view" when the following dialog is shown|
-|<img width="399" alt="Xnip2023-05-09_17-05-48" src="https://user-images.githubusercontent.com/17715848/237034381-2ee169ef-50ed-4a8f-bbf2-f536f3ffaf5a.png">|
+|<img width="399" alt="Xnip2023-05-09_17-05-48" src="https://user-images.githubusercontent.com/17715848/237035142-760f3fa5-8923-4a15-bf32-70ef70c5ad5c.png">|
+
 
 
 
