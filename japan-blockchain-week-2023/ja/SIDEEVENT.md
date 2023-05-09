@@ -29,7 +29,8 @@ japanblockchainweek2023@linker-events.iam.gserviceaccount.com
 |                                                                           イベント画像を添付                                                                            |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img width="1103" alt="Xnip2023-05-08_21-58-15のコピー2" src="https://user-images.githubusercontent.com/17715848/236833364-5c3e28d9-df8f-4044-b118-8064d31b59dc.png"> |
-
+|「リンクを知っている全員に閲覧を許可する」を選択|
+|<img width="400" alt="Xnip2023-05-09_17-12-18" src="https://user-images.githubusercontent.com/17715848/237035921-8539f4b8-deab-4d85-b8ce-954aba1510b2.png">|
 
 5. 以上です。共有したイベントは 30 分程度で Japan Blockchain Week 2023 公式サイトに表示されます。以下のリンクからチェックすることも可能です。
 
